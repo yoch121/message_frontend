@@ -1,0 +1,1 @@
+export const baseUrl = "https://message-sandy-omega.vercel.app/"
